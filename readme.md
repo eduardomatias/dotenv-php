@@ -1,0 +1,2 @@
+## Redirecionamento de rotas e variáveis de ambiente com <code>.env</code>
+Todo <code>.php</code> passa pelo arquivo <code>route.php</code> que valida a rota e disponibiliza as variáveis (<code>getenv</code>) conforme o arquivo <code>.env</code>;
